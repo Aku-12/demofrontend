@@ -31,7 +31,7 @@ function Ground(){
 
 
     return (<>
-        <button onClick={()=>navigate("/ground/form")}>Add Ground</button>
+        <button onClick={()=>navigate("/admin/ground/form")}>Add Ground</button>
        <table>
            <thead>
            <tr>

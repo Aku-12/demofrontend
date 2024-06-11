@@ -20,7 +20,7 @@ function User() {
 
     return (
         <>
-            <button onClick={() => navigate("/user/add")}>click here to add new user.</button>
+            <button onClick={() => navigate("/admin/user/form")}>click here to add new user.</button>
             <table border="1">
                 <thead>
                 <tr>

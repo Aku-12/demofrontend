@@ -67,7 +67,7 @@ function GroundForm() {
             </div>
             <div>
                 <button type="submit">Save </button>
-                <button type="button" onClick={()=>navigate("/ground")}>Back</button>
+                <button type="button" onClick={()=>navigate("/admin/ground")}>Back</button>
             </div>
         </form>
     </>)
